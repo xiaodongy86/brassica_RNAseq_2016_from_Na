@@ -1,7 +1,7 @@
 THREADS=10
 GENOME_INDEX_DIR=/data5/xzy50/brassica/RNAseq_2016/STAR_INDEX
 FASTA_FILES=/data5/xzy50/brassica/RNAseq_2016/Genome/Bju.genome.fasta
-GTF_FILE=/data5/xzy50/brassica/RNAseq_2016/Genome/Bju.genome.gff
+GTF_FILE=/data5/xzy50/brassica/RNAseq_2016/Genome/Bju.genome.gtf
 
 BASE_DIR=/data5/xzy50/brassica/RNAseq_2016/trim_galore
 OUT_DIR=//data5/xzy50/brassica/RNAseq_2016/STAR_align_out
